@@ -13,39 +13,7 @@
    <hr/>
 </p>
 
-
-
-Meu nome é Paulo Henrique Amigoni. Sou desenvolvedor web e sou muito apaixonado e dedicado ao meu trabalho. Com 8 anos de experiência como desenvolvedor Web profissional, adquiri as habilidades e os conhecimentos necessários para tornar o meu, seu, o nosso projeto um sucesso.
-
-Eu aprecio cada passo do processo de desenvolvimento e design, desde a discussão e colaboração até o conceito e a execução, mas eu acho mais satisfatório ver o produto acabado fazendo tudo para você que foi criado para fazer.
-
 <p align="left">
    <img src="http://img.shields.io/static/v1?label=WEB&message=DEVELOPER&color=RED&style=for-the-badge"/>
 </p>
-
-
-### Experiências
-> PROGRAMADOR PHP (DESDE OUTUBRO/2011)
-- LIGHTSYSTEM SOFTWARE
-
-> ASSISTENTE DE INFOMÁTICA
-- NOVORUMO TRANSPORTES
-
-
-
-### Conhecimentos
-- PHP - 90%
-- HTML5 - 70%
-- CSS3 - 70%
-- jQuery - 80%
-- CodeIgniter - 75%
-- Laravel - 65%
-- React - 75%
-- NodeJs - 73% 
-- MySQL - 85%
-
-### Educação  :mortar_board:
-- CURSANDO - SISTEMAS PARA INTERNET - FATEC 
-- CIÊNCIA DA COMPUTAÇÃO - UNIP - LIMEIRA
-
 
